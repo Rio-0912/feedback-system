@@ -17,7 +17,7 @@ Built to address the inefficiencies of manual feedback systems, this platform en
 
 The application follows a **Monolithic Frontend / Service-Oriented Backend** architecture designed for maintainability and clear separation of concerns.
 
-![alt text](image.png)
+<img src="image.png" alt="Architecture of My Feedback app" width="350">
 
 ###  Technical Stack
 
